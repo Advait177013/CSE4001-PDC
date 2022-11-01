@@ -1,0 +1,6 @@
+sample isend irecv with wtime
+sample send recv with wtime
+bcast using send with wtime
+bcast with wtime?
+send diff rand nums to each slave, perform diff math operations, print
+simulate chatting bot
